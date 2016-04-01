@@ -1,0 +1,7 @@
+{
+    "plotly_streaming_tokens": ["YOUR_TOKEN" ],
+    "plotly_api_key": "YOUR_PLOTLY_API_KEY",
+    "plotly_username": "YOUR_USERNAME"
+    "plotly_filename": "YOUR_PLOT_TITLE",
+    "db_path":"./heater_logger.db"
+}
